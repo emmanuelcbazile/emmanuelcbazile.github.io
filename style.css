@@ -3,10 +3,6 @@
         }  
         
         body {
-            background-color: rgb(97, 250, 255);
-        }
-            
-        #myBackground {
                 background-image: url("myBackground.jpg");
                 background-size: cover;
                 background-position: center center;
